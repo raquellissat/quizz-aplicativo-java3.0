@@ -2,7 +2,7 @@
 let questions = [
   {
     numb: 1,
-    question: "De quem é a famosa frase penso, logo existo ?",
+    question: "De quem é a famosa frase penso, logo existo?",
     answer: "Descartes",
     options: [
       "Platão",
