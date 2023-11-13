@@ -8,12 +8,12 @@
 }
 
 body{
-    background: rgb(90, 0, 187);
+    background: rgb(255, 182, 193);
 }
 
 ::selection{
-    color: #fff;
-    background: #007bff;
+    color: #DB7093;
+    background: #FF7F50;
 }
 
 .start_btn,
@@ -24,8 +24,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(255, 99, 71), 
+                0 6px 20px 0 rgba(255, 255, 0);
 }
 
 .info_box.activeInfo,
@@ -40,23 +40,23 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color: #007bff;
+    color: #FF7F50;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 5px;
-    background: #fff;
+    background: #FFD700;
     cursor: pointer;
     transition: 1s ease-in-out;
 }
 .start_btn button:hover{
     transform: scale(1.5);
-    color: rgb(90, 0, 187);
+    color: rgb(255, 69, 0);
 }
 
 .info_box{
     width: 540px;
-    background: #fff;
+    background: #DDA0DD;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
