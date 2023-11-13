@@ -2,7 +2,7 @@
 let questions = [
   {
     numb: 1,
-    question: "De quem é a famosa frase 'penso, logo existo' ?",
+    question: "De quem é a famosa frase penso, logo existo ?",
     answer: "Descartes",
     options: [
       "Platão",
@@ -13,7 +13,7 @@ let questions = [
   },
   {
     numb: 2,
-    question: "Quantas casas decimais tem o número pi??",
+    question: "Quantas casas decimais tem o número pi?",
     answer: "Infinitas",
     options: [
       "1",
@@ -24,7 +24,7 @@ let questions = [
   },
   {
     numb: 3,
-    question: "Qual o número mínimo de jogadores em cada time numa partida de futebol??",
+    question: "Qual o número mínimo de jogadores em cada time numa partida de futebol?",
     answer: "7",
     options: [
       "5",
@@ -35,7 +35,7 @@ let questions = [
   },
   {
     numb: 4,
-    question: "Quem pintou "Guernica"?",
+    question: "Quem pintou Guernica?",
     answer: "Pablo Picasso",
     options: [
       "Pablo Picasso",
